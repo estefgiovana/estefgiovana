@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to my profile ;blue_heart
+### Welcome to my profile 💙  
 
 My name is Estefani Giovana
 
@@ -7,7 +7,7 @@ My name is Estefani Giovana
 - I am developing in the JavaScript language
 - I use this space to organize and share my developed projects
 
-### You can contact me 📧  mailbox
+### You can contact me 📫
 
 
 stefani.gottselig.rodrigues@escola.pr.gov.br
